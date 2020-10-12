@@ -5,7 +5,7 @@ Setup:
 npm i 
 npm start
 
-# DEMO    https://voicebased-news-app.netlify.app/
+### DEMO    https://voicebased-news-app.netlify.app/
 
 
 
