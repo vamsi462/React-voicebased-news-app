@@ -3,8 +3,9 @@ API source: https://newsapi.org/
 
 Setup:
 npm i 
-node server.js
-serve build 
+npm start
+
+# DEMO    https://voicebased-news-app.netlify.app/
 
 
 
